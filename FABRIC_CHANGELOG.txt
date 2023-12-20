@@ -5,6 +5,5 @@ No formatting, just plain text. CurseForge support for it is terrible.
 
 Change logging starts below:
 ----------
-- Fixed Ingredients and results of recipes in sequenced assembly can't be looked up by REI.
-- Fixed REI will throw an exception if sequenced assembly contains more than one filling step.
-- Fixed Fluid tag ingredient of basin recipe only shows its first type of fluid in REI.
+- fix deployer crashes when interacting with entities ([PR#15](https://github.com/DM-Earth/create-fabric-dme-edition/pull/15))
+- fix item vault combined slotted storage ([Fabricators-of-Create/Create#1156](https://github.com/Fabricators-of-Create/Create/pull/1156) ([PR#16](https://github.com/DM-Earth/create-fabric-dme-edition/pull/16)))
